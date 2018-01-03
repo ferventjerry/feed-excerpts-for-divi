@@ -2,21 +2,21 @@
 /**
  * Feed Excerpts For Divi
  *
- * @package		feed-excerpts-for-divi
- * @author		Jerry Simmons <jerry@ferventsolutions.com>
- * @copyright	2017 Jerry Simmons
- * @license		GPL-2.0+
+ * @package     feed-excerpts-for-divi
+ * @author      Jerry Simmons <jerry@ferventsolutions.com>
+ * @copyright   2017 Jerry Simmons
+ * @license     GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:	Feed Excerpts For Divi
- * Plugin URI:	https://ferventsolutions.com
- * Description:	Create Blog Post Excerpts From The First Text Module In A Post For RSS Feed
- * Version:		1.0
- * Author:		Jerry Simmons <jerry@ferventsolutions.com>
- * Author URI:	https://ferventsolutions.com
- * Text Domain:	feed-excerpts-for-divi
- * License:		GPL-2.0+
- * License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
+ * Plugin Name:  Feed Excerpts For Divi
+ * Plugin URI:   https://ferventsolutions.com
+ * Description:  Create Blog Post Excerpts From The First Text Module In A Post For RSS Feed
+ * Version:      1.0
+ * Author:       Jerry Simmons <jerry@ferventsolutions.com>
+ * Author URI:   https://ferventsolutions.com
+ * Text Domain:  feed-excerpts-for-divi
+ * License:      GPL-2.0+
+ * License URI:  http://www.gnu.org/licenses/gpl-2.0.txt
  **/
 
 if ( ! defined( 'ABSPATH' ) ) { exit; }
